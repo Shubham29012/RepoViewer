@@ -26,7 +26,7 @@ A modern, responsive Next.js application that fetches and displays GitHub reposi
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Desktop+View)
+<img width="958" height="473" alt="image" src="https://github.com/user-attachments/assets/eca02133-c416-408e-9e9d-5e4757003452" />
 
 ### Mobile View
 ![Mobile Screenshot](https://via.placeholder.com/300x600/764ba2/ffffff?text=Mobile+View)
