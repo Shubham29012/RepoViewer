@@ -9,7 +9,7 @@ A modern, responsive Next.js application that fetches and displays GitHub reposi
 ## 🌟 Features
 
 - 🔍 **Search by Username**: Enter any GitHub username to view their repositories
-- 📊 **Complete Repository Data**: Shows all repositories (not just first 30)
+- 📊 **Complete Repository Data**: Shows all repositories
 - ⭐ **Repository Statistics**: Display stars, forks, language, and topics
 - 📱 **Responsive Design**: Works perfectly on desktop, tablet, and mobile
 - ⚡ **Server-Side API**: Efficient backend API route for GitHub data fetching
@@ -29,15 +29,10 @@ A modern, responsive Next.js application that fetches and displays GitHub reposi
 <img width="958" height="473" alt="image" src="https://github.com/user-attachments/assets/eca02133-c416-408e-9e9d-5e4757003452" />
 
 ### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/300x600/764ba2/ffffff?text=Mobile+View)
+![1000175375](https://github.com/user-attachments/assets/8e58b189-4661-47de-9d0e-9129829fb528)
 
-## 🚀 Quick Start
 
-### Prerequisites
-- Node.js 18+ installed
-- Git installed
-
-### Installation
+##  Quick Start
 
 1. **Clone the repository**
    ```bash
